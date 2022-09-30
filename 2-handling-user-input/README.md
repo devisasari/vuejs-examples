@@ -1,6 +1,6 @@
 # Handling User Input with Vue 3
 
-- [Live](https://handlinguserinputwithvuejs.web.app/) / 
+- [Live](https://handlinguserinputwithvuejs.web.app/) 
 
 - Screenshot <img width="956" alt="ss2" src="https://user-images.githubusercontent.com/99514353/193361789-4f1500ee-8c4d-4a3c-93ec-ce170a10916c.png">
 
